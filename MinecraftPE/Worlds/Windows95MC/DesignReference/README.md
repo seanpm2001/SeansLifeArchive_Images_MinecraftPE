@@ -11,7 +11,13 @@ Desktop:
 
 [Click here to view the image (windows-95-100642545-slide.png)](windows-95-100642545-slide.png)
 
-No other design references as of Monday, January 25th 2021 at 2:32 pm
+Keyboard:
+
+![KB_United_States.svg](KB_United_States.svg)
+
+[Click here to view the image (KB_United_States.svg)](KB_United_States.svg)
+
+No other design references as of Wednesday, January 27th 2021 at 5:23 pm
 
 ***
 
@@ -19,9 +25,9 @@ No other design references as of Monday, January 25th 2021 at 2:32 pm
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Monday, January 25th 2021 at 2:32 pm)`
+File version: `2 (Wednesday, January 27th 2021 at 5:23 pm)`
 
-Line count (including blank lines and compiler line): `53`
+Line count (including blank lines and compiler line): `89`
 
 ***
 
@@ -40,6 +46,36 @@ Version 1 (Monday, January 25th 2021 at 2:32 pm)
 > * Added the file history section
 
 > * Added the footer
+
+> * No other changes in version 1
+
+Version 2 (Wednesday, January 27th 2021 at 5:23 pm)
+
+> Changes:
+
+> * Added a reference keyboard image
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 3
+
+Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
